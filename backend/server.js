@@ -26,7 +26,7 @@ app.use(cors());
 app.use(express.json());
 
 //ROTAS
-app.use("/tarefas",tarefaRoutes);
+app.use("/",tarefaRoutes);
 
 //SINCRONIZAÇÃO COM O BANCO - INICIAR DO SERVIDOR
 sequelize.sync()
