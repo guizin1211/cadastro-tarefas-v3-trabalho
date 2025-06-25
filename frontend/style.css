@@ -4,7 +4,7 @@ body {
   }
 
   body {
-    background-image: url('palmeiras.jpg'); 
+    background-image: url('g.jpg'); 
     background-size: cover;         
     margin: 0;
     padding: 0;
@@ -15,7 +15,7 @@ body {
   .container {
     max-width: 600px;
     margin: 40px auto;
-    background: green;
+    background: rgb(0, 113, 206);
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
@@ -38,7 +38,7 @@ body {
   }
   
   button {
-    background-color: #086110;
+    background-color: #035497;
     color: white;
     border: none;
     cursor: pointer;
@@ -57,7 +57,7 @@ body {
   }
   
   th {
-    background-color: #086110;
+    background-color: #044fa5;
     color: white;
   }
   
